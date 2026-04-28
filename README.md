@@ -1,5 +1,5 @@
-중간고사 제출 리포트
-바로가기 경로: Mid_term_Report.ipynb
+## 중간고사 제출 리포트
+[중간과제 바로가기 경로](Mid_term_Report.ipynb)
 
 
 <img width="240" height="183" alt="image" src="https://github.com/user-attachments/assets/97db6357-a427-466b-ba9a-03d318494c0b" /> 

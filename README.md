@@ -1,7 +1,7 @@
 ## 중간고사 제출 리포트
-[중간과제: Mid_term_Report.ipynb](Mid_term_Report%20-%20%EB%B3%B5%EC%82%AC%EB%B3%B8.ipynb)
+## [중간과제: Mid_term_Report.ipynb](Mid_term_Report%20-%20%EB%B3%B5%EC%82%AC%EB%B3%B8.ipynb)
 
-
+## 아래 사진 두 장은 과제1 맛보기용
 <img width="240" height="183" alt="image" src="https://github.com/user-attachments/assets/97db6357-a427-466b-ba9a-03d318494c0b" /> 
 보정 전 궤도 사진  
 
